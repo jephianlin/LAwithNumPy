@@ -22,7 +22,10 @@ Practice of Linear Algebra with NumPy experiments
 14. [Power method](14-Power-method.ipynb)
 15. [Singular value decomposition](15-Singular-value-decomposition.ipynb)
 
+## Usage
 
+1. On the top of [this page](https://github.com/jephianlin/MLwithNumPy), click `Code > Download ZIP` and unzip it in a folder.
+2. With your Anaconda installed, open `Anaconda > Jupyter notebook` .  It will then open a browser that can navigate your local files.  Find the folder you put the handouts and open any `ipynb` file.
 
-
+*Alternatively, you may use `git` to clone the repository, and then open it by Jupyter.*
 
